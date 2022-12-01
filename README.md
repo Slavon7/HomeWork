@@ -6,6 +6,7 @@
 
 
 Приклад вхідного файлу:
+    
 <persons>
     <person name="Іван" surname="Котляревський" birthDate="09.09.1769" />
     <person surname="Шевченко" name="Тарас" birthDate="09.03.1814" />
@@ -19,6 +20,7 @@
 </persons>
 
 Приклад вихідного файлу:
+    
 <persons>
     <person name="Іван Котляревський" birthDate="09.09.1769"  />
     <person name="Тарас Шевченко" birthDate="09.03.1814" />
@@ -55,6 +57,7 @@ The input file may be large, so it will be a bad idea to capture it in full in t
 
 
 Sample input file:
+    
 <persons>
      <person name="Ivan" surname="Kotlyarevsky" birthDate="09/09/1769" />
      <person surname="Shevchenko" name="Taras" birthDate="03/09/1814" />
@@ -68,6 +71,7 @@ Sample input file:
 </persons>
 
 Example output file:
+    
 <persons>
      <person name="Ivan Kotlyarevsky" birthDate="09/09/1769" />
      <person name="Taras Shevchenko" birthDate="03/09/1814" />
