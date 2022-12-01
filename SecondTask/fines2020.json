@@ -1,0 +1,86 @@
+[
+  {
+    "date_time": "2022-03-25 08:49:17",
+    "first_name": "Ірина",
+    "last_name": "Захарчук",
+    "type": "ALCOHOL_CONSUMPTION",
+    "fine_amount": 490.00
+  },
+  {
+    "date_time": "2022-11-24 02:02:59",
+    "first_name": "Йосипівна",
+    "last_name": "Вікторія",
+    "type": "ENEMY_FIRE_ADJUSTER",
+    "fine_amount": 370.00
+  },
+  {
+    "date_time": "2022-02-18 00:12:09",
+    "first_name": "Валерія",
+    "last_name": "Петренко",
+    "type": "SPEED_LIMIT",
+    "fine_amount": 900.00
+  },
+  {
+    "date_time": "2022-11-28 10:39:55",
+    "first_name": "Ірина",
+    "last_name": "Кравченко",
+    "type": "ALCOHOL_CONSUMPTION",
+    "fine_amount": 370.00
+  },
+  {
+    "date_time": "2022-06-07 11:24:20",
+    "first_name": "Вікторія",
+    "last_name": "Шевченко",
+    "type": "ENEMY_FIRE_ADJUSTER",
+    "fine_amount": 2000.00
+  },
+  {
+    "date_time": "2022-02-05 23:24:47",
+    "first_name": "Тамара",
+    "last_name": "Дмитренко",
+    "type": "RED_TRAFFIC_LIGHT",
+    "fine_amount": 370.00
+  },
+  {
+    "date_time": "2022-08-16 08:36:46",
+    "first_name": "Георгій",
+    "last_name": "Панасюк",
+    "type": "ALCOHOL_CONSUMPTION",
+    "fine_amount": 1750.00
+  },
+  {
+    "date_time": "2022-09-14 17:25:38",
+    "first_name": "Болеслав",
+    "last_name": "Крамаренко",
+    "type": "SPEED_LIMIT",
+    "fine_amount": 1750.00
+  },
+  {
+    "date_time": "2022-11-03 08:39:04",
+    "first_name": "Євген",
+    "last_name": "Карась",
+    "type": "NO_LICENSE",
+    "fine_amount": 1750.00
+  },
+  {
+    "date_time": "2022-06-28 15:56:03",
+    "first_name": "Катерина",
+    "last_name": "Гнатюк",
+    "type": "ALCOHOL_CONSUMPTION",
+    "fine_amount": 1750.00
+  },
+  {
+    "date_time": "2022-09-23 03:25:45",
+    "first_name": "Максим",
+    "last_name": "Павлюк",
+    "type": "ENEMY_FIRE_ADJUSTER",
+    "fine_amount": 1750.00
+  },
+  {
+    "date_time": "death-time: 2022-12-31 23:59:59",
+    "first_name": "володя",
+    "last_name": "утин",
+    "type": "SENILE_DEMENTIA",
+    "fine_amount": 0.00
+  }
+]

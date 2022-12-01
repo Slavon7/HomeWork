@@ -1,0 +1,9 @@
+<fines>
+	<fines type="ENEMY_FIRE_ADJUSTER" fine_amount="6490.0" />
+	<fines type="ALCOHOL_CONSUMPTION" fine_amount="6480.0" />
+	<fines type="SPEED_LIMIT" fine_amount="4050.0" />
+	<fines type="NO_LICENSE" fine_amount="3500.0" />
+	<fines type="RED_TRAFFIC_LIGHT" fine_amount="370.0" />
+	<fines type="INTERSECTION_SOLID_LINE" fine_amount="370.0" />
+	<fines type="SENILE_DEMENTIA" fine_amount="0.0" />
+</fines>
